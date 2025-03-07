@@ -22,6 +22,7 @@
 *.pdf
 *.whl
 cache
+ckpts/
 __pycache__/
 storage/
 samples/
